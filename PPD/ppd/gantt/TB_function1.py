@@ -20,7 +20,7 @@ gnt.set_yticklabels(['1', '2', '3'])
 # Setting graph attribute
 gnt.grid(True)
 
-# Declaring a bar in schedule
+# Declaring wypadly_teraz_i_w_pieciu_poprz bar in schedule
 #1 od kiedy i długość 2 wysokosc-wspołrzędne i grubość
 gnt.broken_barh([(40, 50)], (30, 9), facecolors=('tab:orange'))
 

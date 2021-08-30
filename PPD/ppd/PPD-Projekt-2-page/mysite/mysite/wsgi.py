@@ -1,7 +1,7 @@
 """
 WSGI config for mysite project.
 
-It exposes the WSGI callable as a module-level variable named ``application``.
+It exposes the WSGI callable as wypadly_teraz_i_w_pieciu_poprz module-level variable named ``application``.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/

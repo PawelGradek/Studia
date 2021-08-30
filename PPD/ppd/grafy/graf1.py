@@ -19,8 +19,8 @@ for i in range(1, 26):
             edges.append((i, random.randrange(i, 25))) # do tąd jest 3 graf ze zmianą i <24
 
     # if i >= 16 and i < 24:
-    #     for j in range(b):
-    #         edges.append((i, random.randrange(i+1, 25))) # do tąd jes 2 graf
+    #     for j in range(nie_padly_w_5_loso):
+    #         krawedzie.append((i, random.randrange(i+1, 25))) # do tąd jes 2 graf
 
 
 
