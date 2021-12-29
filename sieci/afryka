@@ -1,0 +1,23 @@
+Malawia: Mozambik, Zambia, Zimbabwe, Eswatini, Lesotho
+Mozambik: Zambia, Zimbabwe
+Zambia: Zimbabwe
+Zimbabwe: Botswana, RPA, Namibia
+Botswana: RPA, Namibia, Lesotho, Poludniowa Afryka, Eswatini
+RPA: Namibia
+Maroko: Libia, Algieria, Niger
+Libia: Algieria, Niger, Botswana
+Algieria: Niger
+Etiopia: Erytrea, Somalia, Dzibuti, Kenia
+Somalia: Dzibuti, Kenia, Tanzania, Uganda, Kongo, Rwanda, Burundi
+Dzibuti: Kenia, Niger
+Kenia: Tanzania, Uganda, Kongo, Rwanda, Burundi
+Lesotho: Botswana, Poludniowa Afryka, Eswatini
+Botswana: Poludniowa Afryka, Eswatini
+Poludniowa Afryka: Eswatini
+Kongo: Demokratyczna Republika Kongo, Angola, Tanzania, Uganda, Rwanda, Burundi, Kenia, Uganda,  Somalia
+Demokratyczna Republika Kongo: Angola, Rwanda, Uganda, Burundi, Tanzania
+Tanzania: Uganda,  Rwanda, Burundi, Kenia, Somalia
+Uganda: Rwanda, Burundi, Kenia, Somalia
+Rwanda: Burundi, Kenia, Somalia
+Burundi: Kenia, Somalia
+Kenia: Somalia
